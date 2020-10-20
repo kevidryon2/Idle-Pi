@@ -6,6 +6,5 @@ The program that you created uses these variables:
 
 - *****t***** for the time passed,
 - *****π***** for how much digits of π calculated,
-- *****d***** for the duration of a calculation of a digit of π,
 - *****x***** as how much digits of π calculated every *****d*****,
 - *****y***** and *****z***** as methods to increment the digits of π calculated.
